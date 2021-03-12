@@ -1,4 +1,4 @@
-package com.factory.method;
+package com.factory.method.pattern;
 
 public interface Button {
     void render();
