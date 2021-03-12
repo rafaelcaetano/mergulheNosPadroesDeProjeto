@@ -1,5 +1,9 @@
 package com.factory.method;
 
+import com.factory.method.pattern.impl.Dialog;
+import com.factory.method.pattern.impl.WebDialog;
+import com.factory.method.pattern.impl.WindowsDialog;
+
 public class Main {
 
     private static Dialog dialog;

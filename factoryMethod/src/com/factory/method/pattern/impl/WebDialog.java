@@ -1,4 +1,6 @@
-package com.factory.method;
+package com.factory.method.pattern.impl;
+
+import com.factory.method.pattern.Button;
 
 public class WebDialog extends Dialog {
 
