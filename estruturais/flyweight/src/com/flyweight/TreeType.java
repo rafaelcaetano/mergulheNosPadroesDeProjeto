@@ -20,23 +20,11 @@ public class TreeType {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public String getColor() {
         return color;
     }
 
-    public void setColor(String color) {
-        this.color = color;
-    }
-
     public String getTexture() {
         return texture;
-    }
-
-    public void setTexture(String texture) {
-        this.texture = texture;
     }
 }
